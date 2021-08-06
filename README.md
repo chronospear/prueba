@@ -13,20 +13,16 @@
             <td> critics@gmail.com</td>
             <td> 123456 </td>
             </tr>
-        
             <tr>
             <th scope="row">1</th>
             <td> lperez@gmail.com</td>
             <td> 123456 </td>
             </tr>
-        
             <tr>
             <th scope="row">1</th>
             <td> mattep@gmail.com</td>
             <td> 123456 </td>
             </tr>
-    </tbody>
-    
- </table>
+</table>
         
      
