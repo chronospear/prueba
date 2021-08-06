@@ -14,12 +14,12 @@
             <td> 123456 </td>
             </tr>
             <tr>
-            <th scope="row">1</th>
+            <th scope="row">2</th>
             <td> lperez@gmail.com</td>
             <td> 123456 </td>
             </tr>
             <tr>
-            <th scope="row">1</th>
+            <th scope="row">3</th>
             <td> mattep@gmail.com</td>
             <td> 123456 </td>
             </tr>
