@@ -5,7 +5,7 @@
 <p>con los datos de prueba se puede iniciar sesión con uno de estos usuarios: </p>
 
 <table>
-    <thead class="">
+    <thead>
         <tr>
             <th scope="col">#</th>
             <th scope="col">Email</th>
